@@ -1,0 +1,16 @@
+PODS:
+  - libPhoneNumber-iOS (0.9.15)
+
+DEPENDENCIES:
+  - libPhoneNumber-iOS
+
+SPEC REPOS:
+  trunk:
+    - libPhoneNumber-iOS
+
+SPEC CHECKSUMS:
+  libPhoneNumber-iOS: 0a32a9525cf8744fe02c5206eb30d571e38f7d75
+
+PODFILE CHECKSUM: e72fc0942d1429416cf0bf8e9ab76d29a2e7dc9d
+
+COCOAPODS: 1.11.3
